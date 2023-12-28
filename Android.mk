@@ -1,8 +1,8 @@
 LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := Repainter
-LOCAL_SRC_FILES := Repainter.apk
+LOCAL_MODULE := Lawnchair
+LOCAL_SRC_FILES := Lawnchair.apk
 LOCAL_MODULE_CLASS := APPS
 LOCAL_MODULE_TAGS := optional
 LOCAL_CERTIFICATE := PRESIGNED
